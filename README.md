@@ -1,6 +1,6 @@
 ## Node.js OAuth example
 
-Read the blog post [here](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/)
+Read the blog post [here](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/) (from original author - this is not me)
 
 This is an example node application that implements Githubs OAuth2 API.
 
